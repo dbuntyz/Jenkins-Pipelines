@@ -71,7 +71,7 @@ After setting up Jenkins, install the following plugins:
 
 ### Step 5: Jenkins Pipeline Script for Node.js Deployment
 
-Below is a sample Jenkins Pipeline script for checking out code, building a Node.js application, and deploying it to an EC2 instance using SSH.
+Below is the Jenkins Pipeline script for checking out code, building a Node.js application, and deploying it to an EC2 instance using SSH.
 
     pipeline {
         agent any
