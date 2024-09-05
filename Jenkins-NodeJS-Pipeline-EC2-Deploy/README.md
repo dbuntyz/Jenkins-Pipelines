@@ -3,9 +3,9 @@
 
 ### Step 1: Install OpenJDK
 
-Update your system packages and install OpenJDK 21, which is required to run Jenkins:
+Update your system packages and install OpenJDK 21 or whichever is latest, which is required to run Jenkins:
 
-`sudo apt update && sudo apt upgrade -y && sudo apt install openjdk-21-jdk -y` 
+`sudo apt update && sudo apt upgrade -y && sudo apt install openjdk-21-jdk -y` #JDK installation may differ to latest version
 
 ### Step 2: Install Jenkins
 
